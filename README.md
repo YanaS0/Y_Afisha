@@ -17,6 +17,7 @@
 Используемые инструменты:
 
 - Python;
+- SQL;
 - Pandas, NumPy — обработка данных;
 - Matplotlib, Seaborn — визуализация;
 
